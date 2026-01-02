@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code-2024",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port=5555",
+    "build": "vite build",
+    "preview": "vite preview",
+    "new": "node newDay.js"
+  },
+  "devDependencies": {
+    "vite": "^6.0.1"
+  }
+}
